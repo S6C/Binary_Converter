@@ -22,7 +22,3 @@ b = b[::-1]
 #print the answer
 print(str(num) + ' in binary is ' + str(b))
 
-
-  
-  
-  
